@@ -12,7 +12,7 @@
 [<img align="left" alt="PrinceyMania | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/princeymania/
-[linkedin]: https://linkedin.com/in/princeizuka
+[linkedin]: https://linkedin.com/in/prince-izuka
 
 <!--
 **PrinceMania/PrinceMania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
